@@ -1,1 +1,2 @@
-my second README
+it's time to code
+
